@@ -4,3 +4,9 @@
     direction = "ltr"
     title     = "Example Site"
     weight    = 1
+
+[zh-sg]
+    label     = "简体华语"
+    direction = "ltr"
+    title     = "Example Site"
+    weight    = 1
