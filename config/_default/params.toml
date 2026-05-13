@@ -19,7 +19,7 @@ SortBy              = "default"
 
 [sidebar]
     emoji    = "🍥"
-    subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    subtitle = "Amy Sang小姐的个人博客。 Blog of Miss Amy Sang."
     avatar   = "img/avatar.png"
 
 [article]
